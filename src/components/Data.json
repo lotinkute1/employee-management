@@ -1,0 +1,39 @@
+[
+
+{
+    "id":1,
+    "name":"huy",
+    "telephone":"0784508270",
+    "permission":1
+},
+{
+    "id":2,
+    "name":"dat",
+    "telephone":"9832492742",
+    "permission":2
+},
+{
+    "id":3,
+    "name":"hoang",
+    "telephone":"8912732197",
+    "permission":3
+},
+{
+    "id":4,
+    "name":"tin",
+    "telephone":"9387247292",
+    "permission":3
+},
+{
+    "id":5,
+    "name":"phi",
+    "telephone":"9237488372",
+    "permission":2
+},
+{
+    "id":6,
+    "name":"hung",
+    "telephone":"3242342341",
+    "permission":3
+}
+]
